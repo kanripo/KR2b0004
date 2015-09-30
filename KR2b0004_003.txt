@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:37.944631
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB02n0043-003後漢紀-卷第三.
 <pb:KR2b0004_SBCK_003-1a>¶
 後漢&KR0653;武皇帝紀卷第三　袁宏¶
 建武元年春正月鄧禹攻安邑王匡成丹劉均等合¶
@@ -386,4 +390,3 @@
 上都洛陽宫十一月蘇茂降旣而奔劉永永以爲淮¶
 陽王十二月赤眉去長安西畧郡縣¶
 後漢灮武皇帝紀卷第三¶
-

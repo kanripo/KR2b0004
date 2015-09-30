@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:38.156635
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB02n0043-008後漢紀-卷第八.
 <pb:KR2b0004_SBCK_008-1a>¶
 後漢灮武皇帝紀卷第八　袁宏¶
 二十二年春閏月丙戌上幸長安祠園陵夏五月乙¶
@@ -443,4 +447,3 @@
 武征羌十二月甲寅詔自殊死巳下&KR0234;贖罪各有差¶
 後漢&KR0653;武皇帝紀卷第八¶
 <pb:KR2b0004_SBCK_008-19b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:38.023032
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB02n0043-005後漢紀-卷第五.
 <pb:KR2b0004_SBCK_005-1a>¶
 後漢光武皇帝紀卷第五　袁宏¶
 五年春二月丙午大赦天下周建兄子誦以垂惠降¶
@@ -451,4 +455,3 @@
 李忠爲中水侯遷丹陽太守治甚有稱爲天下第一¶
 後漢光武皇帝紀卷第五¶
 <pb:KR2b0004_SBCK_005-20a>¶
-

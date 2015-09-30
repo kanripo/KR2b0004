@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:39.144727
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB02n0043-030後漢紀-卷第三十.
 <pb:KR2b0004_SBCK_030-1a>¶
 後漢孝獻皇帝紀卷第三十　袁宏¶
 十二年春曹操上表曰昔袁紹入郊甸戰於官渡時¶
@@ -464,4 +468,3 @@
 備自立爲天子¶
 後漢孝靈皇帝紀卷第三十¶
 <pb:KR2b0004_SBCK_030-20b>¶
-

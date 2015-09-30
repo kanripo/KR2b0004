@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:38.872847
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 24
+#+PROPERTY: FILE SB02n0043-024後漢紀-卷第二十四.
 <pb:KR2b0004_SBCK_024-1a>¶
 後漢孝靈皇帝紀中卷第二十四　袁宏¶
 嘉平四年春三月五經文字刻石立于太學之前夏¶
@@ -420,4 +424,3 @@
 十二月金城人邊章韓約反¶
 後漢孝靈皇帝紀中卷第二十四¶
 <pb:KR2b0004_SBCK_024-18b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:37.906426
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB02n0043-002後漢紀-卷第二.
 <pb:KR2b0004_SBCK_002-1a>¶
 後漢灮武皇帝紀卷第二　袁宏¶
 二年春正月公到薊王郞購公十萬戸薊中驚恐言¶
@@ -310,4 +314,3 @@
 有重備豈能自守乎王不自得顧謂左右曰此&KR0046;者¶
 也將之乃不辭而俱去¶
 後漢灮武皇帝紀卷第二¶
-

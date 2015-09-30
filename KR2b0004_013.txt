@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:38.381594
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB02n0043-013後漢紀-卷第十三.
 <pb:KR2b0004_SBCK_013-1a>¶
 後漢孝和皇帝紀上第十三　&KR0061;宏¶
 永元二年夏六月竇憲耿秉自方朔出塞三十里斬¶
@@ -372,4 +376,3 @@
 室災¶
 後漢孝和皇帝紀上第十三¶
 <pb:KR2b0004_SBCK_013-16b>¶
-

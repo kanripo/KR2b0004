@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:38.967896
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB02n0043-026後漢紀-卷第二十六.
 <pb:KR2b0004_SBCK_026-1a>¶
 後漢紀孝獻皇帝卷第二十六　&KR0061;宏¶
 初平元年春正月辛亥大赦天下侍中周毖城門校¶
@@ -305,4 +309,3 @@
 <pb:KR2b0004_SBCK_026-13b>¶
 而起者也¶
 後漢孝獻皇帝紀卷第二十六¶
-

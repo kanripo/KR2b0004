@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:37.983299
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB02n0043-004後漢紀-卷第四.
 <pb:KR2b0004_SBCK_004-1a>¶
 後漢光武皇帝紀卷第四　&KR0061;宏¶
 二年春正月甲子朔日有蝕之本志曰日者陽精人¶
@@ -434,4 +438,3 @@
 夫來歙持節送援國遊先至長安怨家殺遊先其弟¶
 爲囂雲旗將軍來歙恐其怨恨即與援俱還長安¶
 後漢光武皇帝紀卷第四¶
-

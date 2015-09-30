@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢紀
-#+DATE: 2015-09-23 09:42:40
+#+DATE: 2015-09-10 23:08:38.919213
+#+PROPERTY: ID KR2b0004
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 25
+#+PROPERTY: FILE SB02n0043-025後漢紀-卷第二十五.
 <pb:KR2b0004_SBCK_025-1a>¶
 後漢孝靈皇帝紀下卷第二十五　&KR0061;宏¶
 中和二年春二月丁卯故太尉劉寛薨贈車&KR0016;將軍¶
@@ -440,4 +444,3 @@
 後漢靈帝紀卷第二十五¶
 <pb:KR2b0004_SBCK_025-19b>¶
 <pb:KR2b0004_SBCK_025-19b>¶
-
